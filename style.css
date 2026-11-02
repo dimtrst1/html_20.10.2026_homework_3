@@ -1,0 +1,50 @@
+.container {
+    margin: 30px auto;
+    background-color: lightgray;
+    padding: 40px;
+    max-width: 1000px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.first-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
+p {
+    margin: 0;
+}
+
+.second-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
+.third-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
+.fourth-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
+.fifth-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
+.sixth-formula {
+    margin-left: 430px;
+    background-color: coral;
+}
+
